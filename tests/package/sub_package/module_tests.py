@@ -1,4 +1,4 @@
-from <my_project>.data.comment import Comment
+from mkgdoc.data.comment import Comment
 from unittest.mock import Mock
 
 class CommentTests():

@@ -1,5 +1,5 @@
 from copy import deepcopy
-from <my_project>.app_setup import CONFIG_KEYS, check_config, load_config, load_secrets
+from mkgdoc.app_setup import CONFIG_KEYS, check_config, load_config, load_secrets
 from pytest import raises
 
 class AppSetupTests():

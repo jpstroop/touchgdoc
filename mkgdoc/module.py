@@ -1,9 +1,9 @@
 from cached_property import cached_property
 from contextlib import contextmanager
 from datetime import datetime, timedelta
-from <my_project> import timestamp
-from <my_project>.data.issue_report import IssueReport
-from <my_project>.github_committer import GithubCommitter
+from mkgdoc import timestamp
+from mkgdoc.data.issue_report import IssueReport
+from mkgdoc.github_committer import GithubCommitter
 from io import StringIO
 from json import dumps
 from os import sep
