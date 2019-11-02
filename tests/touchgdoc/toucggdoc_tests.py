@@ -1,5 +1,5 @@
 from copy import deepcopy
-from mkgdoc.app_setup import CONFIG_KEYS, check_config, load_config, load_secrets
+from touchgdoc.app_setup import CONFIG_KEYS, check_config, load_config, load_secrets
 from pytest import raises
 
 class AppSetupTests():

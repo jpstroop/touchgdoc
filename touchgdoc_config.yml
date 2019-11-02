@@ -1,0 +1,41 @@
+---
+- account: user@example.com
+  drives:
+  - id: abc123_ugly_from_google
+    alias: name_used_in_cli
+    groups:
+    - alias: name
+      members:
+      - collab1@example.com
+      - collab2@princeton.edu
+    - alias: name1
+      members:
+      - collab2@example.com
+      - collab3@princeton.edu
+    folders:
+    - name: foo/bar/baz
+      id: def456_ugly_from_google
+    - name: foo/bar/baz
+      id: def456_ugly_from_google
+  - id: abc123_ugly_from_google
+    alias: name_used_in_cli
+- account: user2@otherexample.com
+  drives:
+  - id: abc123_ugly_from_google
+    alias: name_used_in_cli
+    groups:
+    - alias: name
+      members:
+      - collab1@example.com
+      - collab2@princeton.edu
+    - alias: name1
+      members:
+      - collab2@example.com
+      - collab3@princeton.edu
+    folders:
+    - name: foo/bar/baz
+      id: def456_ugly_from_google
+    - name: foo/bar/baz
+      id: def456_ugly_from_google
+  - id: abc123_ugly_from_google
+    alias: name_used_in_cli

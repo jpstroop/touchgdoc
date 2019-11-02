@@ -1,5 +1,5 @@
-from mkgdoc import timestamp
-from mkgdoc.app_setup import load_config
+from touchgdoc import timestamp
+from touchgdoc.app_setup import load_config
 from sys import stderr
 
 def main():

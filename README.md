@@ -1,12 +1,12 @@
-# `mkgdoc`
+# `touchgdoc`
 
-[![Build Status](https://travis-ci.org/jpstroop/mkgdoc.svg?branch=master)](https://travis-ci.org/jpstroop/mkgdoc)
-[![Requirements Status](https://requires.io/github/jpstroop/mkgdoc/requirements.svg?branch=master)](https://requires.io/github/jpstroop/mkgdoc/requirements/?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/jpstroop/mkgdoc/badge.svg?branch=master)](https://coveralls.io/github/jpstroop/mkgdoc?branch=master)
+[![Build Status](https://travis-ci.org/jpstroop/touchgdoc.svg?branch=master)](https://travis-ci.org/jpstroop/touchgdoc)
+[![Requirements Status](https://requires.io/github/jpstroop/touchgdoc/requirements.svg?branch=master)](https://requires.io/github/jpstroop/touchgdoc/requirements/?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/jpstroop/touchgdoc/badge.svg?branch=master)](https://coveralls.io/github/jpstroop/touchgdoc?branch=master)
 [![Python 3.7](https://img.shields.io/badge/python-3.7-yellow.svg)](https://img.shields.io/badge/python-3.7-yellow.svg)
-[![License: Simplified BSD](https://img.shields.io/badge/license-Simplified%20BSD-blue.svg)](https://github.com/jpstroop/mkgdoc/blob/master/LICENSE)
+[![License: Simplified BSD](https://img.shields.io/badge/license-Simplified%20BSD-blue.svg)](https://github.com/jpstroop/touchgdoc/blob/master/LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-[![Maintainability](https://api.codeclimate.com/v1/badges/c80d6ee046159351eba3/maintainability)](https://codeclimate.com/github/jpstroop/mkgdoc/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/c80d6ee046159351eba3/maintainability)](https://codeclimate.com/github/jpstroop/touchgdoc/maintainability)
 
 ## Getting Started
 

@@ -4,7 +4,6 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-requests = "*"
 pytest = "*"
 faker = "*"
 pytest-cov = "*"
@@ -12,7 +11,8 @@ python-coveralls = "*"
 black = "*"
 
 [packages]
-requests = "*"
+click = "*"
+cached-property = "*"
 
 [requires]
 python_version = "3.7"
