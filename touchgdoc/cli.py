@@ -24,11 +24,11 @@ p_default = ''
 @option('--permissions', '-p', type=p_choice, default='rw', help='') # rw, co, ro
 @option('--title', '-t', default=None, help='')
 @argument('list', required=False, default=False) # See: https://click.palletsprojects.com/en/7.x/complex/#the-first-child-command
-def touchgdoc_cli(group, account, drive, folder, permissions, title, list):
+def touchgdoc(group, account, drive, folder, permissions, title, list):
     """
     Command line application for quickly creating documents in Google Drive.
     """
     pass
 
 if __name__ == '__main__':
-    touchgdoc_cli()
+    touchgdoc()
